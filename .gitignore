@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+# エージェントのドキュメントを無視する
+.AGENTS.md
+
+# Work directories
+work/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
