@@ -7,9 +7,12 @@ function App() {
     <h1>Genki's Portfolio</h1>
     <p>Welcome to my portfolio!</p>
     <ul>
-      <li>About Me</li>
-      <li>Projects</li>
-      <li>Contact</li>
+      <li>Home</li>
+      <li>PROFILE</li>
+      <li>SKILLS</li>
+      <li>PROJECTS</li>
+      <li>STUDIES</li>
+      <li>CONTACT</li>
     </ul>
     </>
   )
